@@ -10,3 +10,5 @@ Technology: ReactJS
 
 ## Demo
 ![Triangle](https://user-images.githubusercontent.com/70641781/183283013-dc642e93-ed86-4e1d-93a7-be0fabfdb8b4.gif)
+
+Live: https://triangle-trivia-mark12.netlify.app/
